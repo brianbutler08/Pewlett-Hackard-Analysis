@@ -55,4 +55,9 @@ In short, no. Mentorships are successful when the mentor has strong and meaningf
 
 After conducting this analysis, I have a recommendation for two additional queries that would help to shed light on the situation. These queries answer two key questions:
 
-1. Are there enough junior staff employees to replace the retiring senior staff employees? Our original query looked at a five year range of potential retirement, finding a large number of Senior Engineers and Senior Staff 
+1. Are there enough junior staff employees to replace the retiring senior staff employees? Our original query looked at a five year range of potential retirement, finding a large number of Senior Engineers and Senior Staff that were on the verge of leaving PH. One likely source of professionals to fill these vacant positions would be the junior Engineers and Staff already at PH, who have extensive experience and may be candidates for promotion. To explore 
+this possibility, I created a query that looked at currently employees born in the decade after our retirees.
+
+In addition to the expected senior employees, there are 21,698 Engineers and 17,890 Staff that could be good candidates to fill those soon to be vacant roles. These employees were born between 1956 and 1965, meaning that they are still a ways from retirement, but are likely expereinced enough to be a senior member of staff.
+
+2. How do we fill the wide gap between potential mentors and the numbers of mentors needed to be effective? The simple answer is to expand the criteria for participation in the mentorship program. Originally, PH targeted mentors born in only 1965, which did not yield enough mentors. I created a query that expanded eligibility to those also born in 1964. By simply including another birth year of employees, the number of mentors increased from 1,549 to 19,905, making the prospect of a successful mentorship program much more likely. 
