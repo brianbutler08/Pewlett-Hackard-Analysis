@@ -39,12 +39,20 @@ In order to mitigate disruption caused by a wave of retirements, PH is looking a
 
 # Summary
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+## Primary Questions
 
-A lot. See above
+After our analysis, we were asked to answer two primary questions.
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
-Based on the criteria given, no way. Expand the criteria.
+The wave of potential retirements facing the company is massive. Baby Boomers make up a significant proportion of their workforce and there will be significant business consequences if their absences are not adequately planned for. Even if retirements are spread out over severla years, replacing more than 72,000 experienced, senior personel will be a major challenege. Addionally, it is unclear whether there are enough existing junior employees already at PH to step into those roles. Getting the balance of internal promotion and external recruitment correct will be crucial.
 
-Use a wider age range AND target senior staff
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+In short, no. Mentorships are successful when the mentor has strong and meaningful relationships with those that they are working with. It is unrealistic for a mere 1,500 individuals to effectively mentor the *enormous* number of personnel stepping up into those roles. Each mentor would be working with many, many junior employees and there would not be enough hours in the day to remotely prepare them for their future roles.
+
+## Additional Queries
+
+After conducting this analysis, I have a recommendation for two additional queries that would help to shed light on the situation. These queries answer two key questions:
+
+1. Are there enough junior staff employees to replace the retiring senior staff employees? Our original query looked at a five year range of potential retirement, finding a large number of Senior Engineers and Senior Staff 
