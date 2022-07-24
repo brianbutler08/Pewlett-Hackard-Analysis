@@ -2,6 +2,10 @@
 
 # Overview
 
+For this project, we worked with Pewlett_Hackard, a large company with thousands of employees. They were facing the possibility in the near future of a significant personnel exodus as their older employees reached retirement age. In order to prepare for this inevitability, two main initiatives were being discussed. Firstly, they were planning on offering retirement packages to those employees that met certain criteria. Secondly, they wanted to look at the vacancies that would be open to begin planning on how to fill them.
+
+We worked with company HR to analyze their available employee and departmental data in order to help them address these two initiatives. 
+
 # Results
 
 - 72,458 employees that meet the retiring criteria
